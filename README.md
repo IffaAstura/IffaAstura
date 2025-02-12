@@ -1,3 +1,4 @@
+<body style="background-color: #121212; color: white;"> <!-- Latar belakang gelap -->
 <h1 align="center" style="color: white;"> <!-- Teks berwarna putih -->
     <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings,+creative+minds!+✨;+I'm+Iffa+Mastura+👋;" />
@@ -9,10 +10,10 @@
 
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
-        <li>🎓 **Student at SMKN 1 Nglegok**</li>
-        <li>☁️ **Cloud Computing & DevOps Enthusiast**</li>
-        <li>📚 **Currently Learning AWS, Docker, and Kubernetes**</li>
-        <li>💻 **Exploring Serverless Architectures, CI/CD, and Automation**</li>
+        <li>🎓 <b>Student at SMKN 1 Nglegok</b></li>
+        <li>☁️ <b>Cloud Computing & DevOps Enthusiast</b></li>
+        <li>📚 <b>Currently Learning AWS, Docker, and Kubernetes</b></li>
+        <li>💻 <b>Exploring Serverless Architectures, CI/CD, and Automation</b></li>
     </ul>
 </div>
 
@@ -64,14 +65,14 @@
 </p>
 
 <h3 align="left" style="color: white;">GitHub Achievements:</h3> <!-- Teks berwarna putih -->
-<p align="left" style="color: white;"> <!-- Menambahkan warna teks putih untuk bagian ini -->
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura&theme=dark&no-frame=true&margin-w=10" alt="iffaastura" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura&theme=darkhub&no-frame=true&margin-w=10" alt="iffaastura" />
     </a>
 </p>
 
-
 <h3 align="left" style="color: white;">GitHub Stats:</h3> <!-- Teks berwarna putih -->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iffaastura&show_icons=true&locale=en&bg_color=212121&text_color=FFFFFF&icon_color=FF8C00&hide_title=true" alt="iffaastura" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iffaastura&show_icons=true&locale=en&bg_color=121212&text_color=FFFFFF&icon_color=FF8C00&hide_title=true" alt="iffaastura" />
 </p>
+</body>
