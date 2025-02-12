@@ -61,11 +61,6 @@
     </a>
 </p>
 
-<h3 align="center" style="color: white;">GitHub Activity Graph:</h3> 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iffaastura&theme=react-dark&hide_border=true&bg_color=212121&color=58a6ff" />
-</p>
-
 <h3 align="center" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
 <div align="center">
 <table>
@@ -79,5 +74,10 @@
 </tr>
 </table>
 </div>
+
+<h3 align="center" style="color: white;">GitHub Activity Graph:</h3> 
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iffaastura&theme=react-dark&hide_border=true&bg_color=212121&color=58a6ff" />
+</p>
 
 ---
