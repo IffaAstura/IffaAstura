@@ -64,7 +64,7 @@
 <h3 align="left" style="color: white;">GitHub Achievements:</h3> <!-- Teks berwarna putih -->
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura&theme=dark&no-frame=true&margin-w=10" alt="iffaastura" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura&theme=darkhub&no-frame=true&margin-w=10" alt="iffaastura" />
     </a>
 </p>
 
