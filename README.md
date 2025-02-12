@@ -66,7 +66,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iffaastura&theme=react-dark&hide_border=true&bg_color=212121&color=58a6ff" />
 </p>
 
-<h3 align="left" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
+<h3 align="center" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
 <table>
 <tr>
 <td>
