@@ -14,7 +14,7 @@
 </div>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=702963&style=flat" alt="iffaastura" />
+    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=234FC7&style=flat" alt="iffaastura" />
 </p>
 
 <h3 align="left" style="color: white;">Connect with me:</h3> <!-- Teks berwarna putih -->
