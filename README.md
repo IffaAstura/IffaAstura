@@ -1,3 +1,4 @@
+<body style="background-color: #121212; color: white;">
 <h1 align="center" style="color: white;"> <!-- Teks berwarna putih -->
     <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings,+creative+minds!+✨;+I'm+Iffa+Mastura+👋;" />
@@ -79,10 +80,5 @@
 </tr>
 </table>
 
-<h3 align="left" style="color: white;">GitHub Streak:</h3> <!-- Teks berwarna putih -->
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iffaastura&theme=dark&hide_border=true&background=212121&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" />
-</p>
 
 ---
-⭐️ *Feel free to check out my repositories!*
