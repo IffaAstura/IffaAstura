@@ -67,6 +67,7 @@
 </p>
 
 <h3 align="center" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
+<div align="center">
 <table>
 <tr>
 <td>
@@ -77,5 +78,6 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
