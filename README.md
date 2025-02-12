@@ -66,14 +66,16 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iffaastura&theme=react-dark&hide_border=true&bg_color=212121&color=58a6ff" />
 </p>
 
-<h3 align="left" style="color: white;">GitHub Stats:</h3> 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iffaastura&show_icons=true&theme=radical&hide_border=true&bg_color=212121&text_color=58a6ff&icon_color=ffcc00" />
-</p>
-
-<h3 align="left" style="color: white;">Most Used Languages:</h3> 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffaastura&layout=compact&theme=radical&hide_border=true&bg_color=212121&text_color=58a6ff&title_color=ffcc00" />
-</p>
+<h3 align="left" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
+<table>
+<tr>
+<td>
+    <img src="https://github-readme-stats.vercel.app/api?username=iffaastura&show_icons=true&theme=dark&hide_border=true&bg_color=212121&text_color=FFFFFF&icon_color=FF8C00&hide_title=true" />
+</td>
+<td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffaastura&layout=compact&theme=dark&hide_border=true&bg_color=212121&text_color=FFFFFF&title_color=FF8C00" />
+</td>
+</tr>
+</table>
 
 ---
