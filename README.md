@@ -10,10 +10,10 @@
 
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
-        <li>🎓 **Student at SMKN 1 Nglegok**</li>
-        <li>☁️ **Cloud Computing & DevOps Enthusiast**</li>
-        <li>📚 **Currently Learning AWS, Docker, and Kubernetes**</li>
-        <li>💻 **Exploring Serverless Architectures, CI/CD, and Automation**</li>
+        <li>🎓 Student at SMKN 1 Nglegok</li>
+        <li>☁️ Cloud Computing & DevOps Enthusiast</li>
+        <li>📚 Currently Learning AWS, Docker, and Kubernetes</li>
+        <li>💻 Exploring Serverless Architectures, CI/CD, and Automation</li>
     </ul>
 </div>
 
@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=234FC7&style=flat" alt="iffaastura" />
 </p>
 
-<h3 align="left" style="color: white;">Connect with me:</h3> <!-- Teks berwarna putih -->
+<h3 align="left" style="color: white;">🌐 Media Social</h3> <!-- Teks berwarna putih -->
 <p align="left">
     <a href="https://linkedin.com/in/iffa-mastura" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iffa mastura" height="30" width="40" />
@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h3 align="left" style="color: white;">Languages and Tools:</h3> <!-- Teks berwarna putih -->
+<h3 align="left" style="color: white;">🗂️ Languages and Tools:</h3> <!-- Teks berwarna putih -->
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -65,7 +65,7 @@
     </a>
 </p>
 
-<h3 align="left" style="color: white;">GitHub Stats & Most Used Languages:</h3> <!-- Teks berwarna putih -->
+<h3 align="left" style="color: white;">📊 GitHub Stats & Used Languages:</h3> <!-- Teks berwarna putih -->
 <div align="center">
 <table>
 <tr>
@@ -79,7 +79,7 @@
 </table>
 </div>
 
-<h3 align="left" style="color: white;">GitHub Activity Graph:</h3> 
+<h3 align="left" style="color: white;">📈 GitHub Activity Graph:</h3> 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iffaastura&theme=react-dark&hide_border=true&bg_color=212121&color=58a6ff" />
 </p>
