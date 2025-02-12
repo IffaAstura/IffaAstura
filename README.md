@@ -5,7 +5,7 @@
 </h1>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=0e75b6&style=flat" alt="iffaastura" />
+    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=702963&style=flat" alt="iffaastura" />
 </p>
 
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
