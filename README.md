@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/IffaAstura/IffaAstura/main/banner.png" alt="Banner" width="600">
+    <img src="https://IffaAstura/IffaAstura/main/banner.png" alt="Banner" width="600">
 </p>
 
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
