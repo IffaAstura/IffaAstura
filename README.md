@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=0e75b6&style=flat" alt="iffaastura" /> </p>
 
+<hr style="border: 1px solid #D3D3D3;">
+
 -  🎓 **Student at SMKN 1 Nglegok**  
 -  ☁️ **Cloud Computing & DevOps Enthusiast**  
 -  📚 **Currently Learning AWS, Docker, and Kubernetes**  
