@@ -4,10 +4,6 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings,+creative+minds!+✨;+I'm+Iffa+Mastura+👋;" />
 </h1>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/IffaAstura/IffaAstura/main/banner.png" alt="Banner" width="600">
-</p>
-
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
         <li>🎓 Student at SMKN 1 Nglegok</li>
@@ -32,6 +28,7 @@
 </p>
 
 <h3 align="left" style="color: white;">🗂️ Languages and Tools:</h3> <!-- Teks berwarna putih -->
+> The tools and technologies I use and learn
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
