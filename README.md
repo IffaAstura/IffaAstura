@@ -64,11 +64,12 @@
 </p>
 
 <h3 align="left" style="color: white;">GitHub Achievements:</h3> <!-- Teks berwarna putih -->
-<p align="left">
+<p align="left" style="color: white;"> <!-- Menambahkan warna teks putih untuk bagian ini -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura" alt="iffaastura" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iffaastura&theme=dark&no-frame=true&margin-w=10" alt="iffaastura" />
     </a>
 </p>
+
 
 <h3 align="left" style="color: white;">GitHub Stats:</h3> <!-- Teks berwarna putih -->
 <p align="center">
