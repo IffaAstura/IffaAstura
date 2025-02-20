@@ -27,8 +27,7 @@
     </a>
 </p>
 
-<h3 align="left" style="color: white;">🗂️ Languages and Tools:</h3> <!-- Teks berwarna putih -->
-> The tools and technologies I use and learn
+<h3 align="left" style="color: white;">🗂️ Languages ​​and Tools I use:</h3> <!-- Teks berwarna putih -->
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
