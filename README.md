@@ -138,7 +138,7 @@
     </td>
     <td align="center" width="90">
       <a href="https://mikrotik.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MikroTik_logo.svg/512px-MikroTik_logo.svg.png" width="40" height="40" alt="MikroTik"/><br/>MikroTik
+        <img src="https://github.com/user-attachments/assets/2ef5c02e-2d2c-4616-aae8-ef536cb5ce2f" width="40" height="40" alt="MikroTik"/><br/>MikroTik
       </a>
     </td>
     <td align="center" width="90">
@@ -150,7 +150,7 @@
   <tr>
     <td align="center" width="90">
       <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/><br/>Ubuntu
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/><br/>Ubuntu
       </a>
     </td>
     <td align="center" width="90">
@@ -170,7 +170,7 @@
     </td>
     <td align="center" width="90">
       <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/><br/>Next.js
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/><br/>Next.js
       </a>
     </td>
     <td align="center" width="90">
