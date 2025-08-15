@@ -43,8 +43,6 @@
 
 <h3 align="left">Languages and Tools I use:</h3>
 
-<!-- Bahasa Pemrograman -->
-<h4>💻 Bahasa Pemrograman</h4>
 <table>
   <tr>
     <td align="center" width="90">
@@ -72,13 +70,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>TypeScript
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Framework & Library -->
-<h4>⚡ Framework & Library</h4>
-<table>
-  <tr>
     <td align="center" width="90">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br/>React
@@ -94,13 +85,6 @@
         <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/><br/>Vite
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- AWS Services -->
-<h4>☁️ AWS Services</h4>
-<table>
-  <tr>
     <td align="center" width="90">
       <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/>AWS
@@ -112,11 +96,6 @@
       </a>
     </td>
   </tr>
-</table>
-
-<!-- CI/CD & DevOps Tools -->
-<h4>🚀 CI/CD & DevOps Tools</h4>
-<table>
   <tr>
     <td align="center" width="90">
       <a href="https://www.docker.com/" target="_blank">
@@ -153,13 +132,6 @@
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/><br/>Ansible
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Database -->
-<h4>🗄️ Database</h4>
-<table>
-  <tr>
     <td align="center" width="90">
       <a href="https://mariadb.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"/><br/>MariaDB
@@ -175,6 +147,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
       </a>
     </td>
+  </tr>
+  <tr> 
     <td align="center" width="90">
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
@@ -185,13 +159,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>Redis
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Networking -->
-<h4>🌐 Networking</h4>
-<table>
-  <tr>
     <td align="center" width="90">
       <a href="https://www.cisco.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" height="40" alt="Cisco"/><br/>Cisco
@@ -207,13 +174,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/><br/>Nginx
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Tools Lainnya -->
-<h4>🛠️ Tools Lainnya</h4>
-<table>
-  <tr>
     <td align="center" width="90">
       <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
@@ -241,6 +201,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
