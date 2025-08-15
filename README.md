@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=234FC7&style=flat" alt="iffaastura" />
 </p>
 
-<h3 align="left">🔎 About Me:</h3>
+<h3 align="left">🔎 - About Me:</h3>
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
         <li>🎓 Student at SMKN 1 Nglegok</li>
@@ -22,7 +22,7 @@
     </ul>
 </div>
 
-<h3 align="left">🌐 Media Social:</h3>
+<h3 align="left">🌐 - Media Social:</h3>
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">📝 - Languages and Tools I use:</h3>
 
 <table>
   <tr>
@@ -205,7 +205,7 @@
 
 
 
-<h3 align="left" style="color: white;">📊 GitHub Stats & Used Languages:</h3> <!-- Teks berwarna putih -->
+<h3 align="left" style="color: white;">📊 - GitHub Stats & Used Languages:</h3> <!-- Teks berwarna putih -->
 <div>
     <table>
         <tr>
