@@ -39,6 +39,7 @@
     </td>
   </tr>
 </table>
+
 <h3 align="left">Languages and Tools I use:</h3>
 
 <table>
@@ -56,11 +57,6 @@
     <td align="center" width="90" height="90">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>Python
       </a>
     </td>
     <td align="center" width="90" height="90">
@@ -93,13 +89,13 @@
         <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/><br/>Next.js
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90" height="90">
       <a href="https://vitejs.dev/" target="_blank">
         <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/><br/>Vite
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90" height="90">
       <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/>AWS
@@ -145,13 +141,13 @@
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/><br/>Jenkins
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90" height="90">
       <a href="https://www.ansible.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/><br/>Ansible
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90" height="90">
       <a href="https://mariadb.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"/><br/>MariaDB
@@ -197,65 +193,13 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90" height="90">
       <a href="https://grafana.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br/>Grafana
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu"/><br/>Ubuntu
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br/>Postman
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://redis.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>Redis
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://www.cisco.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" height="40" alt="Cisco"/><br/>Cisco
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://mikrotik.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/2ef5c02e-2d2c-4616-aae8-ef536cb5ce2f" width="40" height="40" alt="MikroTik"/><br/>MikroTik
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://nginx.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/><br/>Nginx
-      </a>
-    </td>
-    <td align="center" width="90" height="90">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
       </a>
     </td>
   </tr>
-  <tr>    
-    <td align="center" width="90" height="90">
-      <a href="https://grafana.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br/>Grafana
-      </a>
-    </td>
+  <tr>
     <td align="center" width="90" height="90">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
@@ -273,6 +217,7 @@
     </td>
   </tr>
 </table>
+
 
 <h3 align="left" style="color: white;">📊 - GitHub Stats & Used Languages:</h3> <!-- Teks berwarna putih -->
 <div>
