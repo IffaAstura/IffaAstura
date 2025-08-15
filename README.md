@@ -46,7 +46,7 @@
   <tr>
     <td align="center" width="90" height="90">
       <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br/>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/><br/>HTML
       </a>
     </td>  
     <td align="center" width="90" height="90">
@@ -216,27 +216,27 @@
       </a> 
     <td align="center" width="90" height="90">
       <a href="https://debian.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Ollama"/><br/>Ollama
+        <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian"/><br/>Debian
       </a>
     </td>   
     <td align="center" width="90" height="90">
       <a href="https://visualstudio.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Ollama"/><br/>Ollama
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/><br/>VSCode
       </a>
     </td>   
     <td align="center" width="90" height="90">
       <a href="https://terraform.io" target="_blank">
-        <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Ollama"/><br/>Ollama
+        <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform"/><br/>Terraform
       </a>
     </td>   
     <td align="center" width="90" height="90">
       <a href="https://helm.sh/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Helm"/><br/>Helm
       </a>
     </td>   
     <td align="center" width="90" height="90">
       <a href="https://yaml.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
+        <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="40" height="40" alt="Yaml"/><br/>Yaml
       </a>
     </td>   
   </tr>
