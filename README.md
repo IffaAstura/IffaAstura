@@ -4,6 +4,10 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings,+creative+minds!+✨;+I'm+Iffa+Mastura+👋;" />
 </h1>
 
+<p align="center">
+    <img src="banner.png" alt="My Banner" width="800" />
+</p>
+
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
         <li>🎓 Student at SMKN 1 Nglegok</li>
