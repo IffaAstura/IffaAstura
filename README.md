@@ -214,7 +214,16 @@
       <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br/>Postman
       </a>
+    <td align="center" width="90" height="90">
+      <a href="https://open-webui.com" target="_blank">
+        <img src="https://dashboardicons.com/icons/open-webui.svg" width="40" height="40" alt="WebUI"/><br/>WebUI
+      </a>
     </td>
+    <td align="center" width="90" height="90">
+      <a href="https://ollama.com" target="_blank">
+        <img src="https://dashboardicons.com/icons/ollama.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
+      </a>
+    </td>   
   </tr>
 </table>
 
