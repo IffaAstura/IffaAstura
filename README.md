@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <img src="banner.png" alt="My Banner" width="200" />
+    <img src="banner.png" alt="My Banner" width="2000" />
 </p>
 
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
