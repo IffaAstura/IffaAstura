@@ -46,12 +46,12 @@
   <tr>
     <td align="center" width="90" height="90">
       <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br/>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br/>HTML5
       </a>
     </td>  
     <td align="center" width="90" height="90">
       <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br/>Java
       </a>
     </td>
     <td align="center" width="90" height="90">
@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="90" height="90">
       <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br/>Node.js
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br/>Node.js
       </a>
     </td>    
     <td align="center" width="90" height="90">
@@ -98,7 +98,7 @@
   <tr>
     <td align="center" width="90" height="90">
       <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/>AWS
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/>AWS
       </a>
     </td>
     <td align="center" width="90" height="90">
@@ -108,42 +108,42 @@
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br/>Docker
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br/>Docker
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://kubernetes.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/><br/>Kubernetes
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/><br/>Kubernetes
       </a>
     </td>    
     <td align="center" width="90" height="90">
       <a href="https://github.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>GitHub
+        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br/>GitHub
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://gitlab.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" alt="GitLab"/><br/>GitLab
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab"/><br/>GitLab
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/>Git
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/>Git
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://github.com/features/actions" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/>Actions
+        <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/>Actions
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.jenkins.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/><br/>Jenkins
+        <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br/>Jenkins
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.ansible.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/><br/>Ansible
+        <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" alt="Ansible"/><br/>Ansible
       </a>
     </td>
   </tr>
@@ -155,22 +155,22 @@
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/><br/>MongoDB
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/><br/>MongoDB
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br/>MySQL
       </a>
     </td> 
     <td align="center" width="90" height="90">
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/>PostgreSQL
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://redis.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>Redis
+        <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/>Redis
       </a>
     </td>
     <td align="center" width="90" height="90">
@@ -185,24 +185,24 @@
     </td>
     <td align="center" width="90" height="90">
       <a href="https://nginx.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/><br/>Nginx
+        <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/>Nginx
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/><br/>Bash
       </a>
     </td>
     <td align="center" width="90" height="90">
       <a href="https://grafana.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br/>Grafana
+        <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br/>Grafana
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="90" height="90">
       <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/>Linux
       </a>
     </td>
     <td align="center" width="90" height="90">
@@ -212,16 +212,31 @@
     </td>
     <td align="center" width="90" height="90">
       <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br/>Postman
-      </a>
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/><br/>Postman
+      </a> 
     <td align="center" width="90" height="90">
-      <a href="https://open-webui.com" target="_blank">
-        <img src="https://dashboardicons.com/icons/open-webui.svg" width="40" height="40" alt="WebUI"/><br/>WebUI
+      <a href="https://debian.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Ollama"/><br/>Ollama
       </a>
-    </td>
+    </td>   
     <td align="center" width="90" height="90">
-      <a href="https://ollama.com" target="_blank">
-        <img src="https://dashboardicons.com/icons/ollama.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
+      <a href="https://visualstudio.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Ollama"/><br/>Ollama
+      </a>
+    </td>   
+    <td align="center" width="90" height="90">
+      <a href="https://terraform.io" target="_blank">
+        <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Ollama"/><br/>Ollama
+      </a>
+    </td>   
+    <td align="center" width="90" height="90">
+      <a href="https://helm.sh/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
+      </a>
+    </td>   
+    <td align="center" width="90" height="90">
+      <a href="https://yaml.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="40" height="40" alt="Ollama"/><br/>Ollama
       </a>
     </td>   
   </tr>
