@@ -8,6 +8,10 @@
     <img src="banner.png" alt="My Banner" width="2000" />
 </p>
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=234FC7&style=flat" alt="iffaastura" />
+</p>
+
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
         <li>🎓 Student at SMKN 1 Nglegok</li>
@@ -16,10 +20,6 @@
         <li>💻 Exploring Serverless Architectures, CI/CD, and Automation</li>
     </ul>
 </div>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=iffaastura&label=Profile%20views&color=234FC7&style=flat" alt="iffaastura" />
-</p>
 
 <h3 align="left">🌐 Media Social</h3>
 
