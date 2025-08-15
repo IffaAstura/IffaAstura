@@ -15,19 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake graph (kotak kosong hitam)
-        uses: Platane/snk@v3
+      - name: Generate snake graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IffaAstura
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-          palette: |
-            {
-              "background": "#000000",
-              "snake": "#39FF14",
-              "dots": ["#000000", "#40c463", "#30a14e", "#216e39", "#0e4429"]
-            }
+          color_snake: "#39FF14"
+          color_dots: "#000000 #40c463 #30a14e #216e39 #0e4429"
+
+      - name: Tambahkan background hitam ke SVG
+        run: |
+          sed -i '2i <rect width="100%" height="100%" fill="black"/>' dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
