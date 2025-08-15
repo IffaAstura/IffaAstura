@@ -211,11 +211,6 @@
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/><br/>React Native
-      </a>
-    </td>
-    <td align="center" width="90">
       <a href="https://redis.io" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>Redis
       </a>
