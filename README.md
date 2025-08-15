@@ -249,13 +249,13 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
       </a>
     </td>
+  </tr>
+  <tr>    
     <td align="center" width="90" height="90">
       <a href="https://grafana.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br/>Grafana
       </a>
     </td>
-  </tr>
-  <tr>    
     <td align="center" width="90" height="90">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
