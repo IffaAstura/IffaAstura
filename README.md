@@ -50,6 +50,11 @@
       </a>
     </td>
     <td align="center" width="90">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/>AWS
+      </a>
+    </td>
+    <td align="center" width="90">
       <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/><br/>Bash
       </a>
@@ -65,6 +70,21 @@
       </a>
     </td>
     <td align="center" width="90">
+      <a href="https://gitlab.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" alt="GitLab"/><br/>GitLab
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>GitHub
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/>Actions
+      </a>
+    </td>
+    <td align="center" width="90">
       <a href="https://golang.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/><br/>Go
       </a>
@@ -74,9 +94,16 @@
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/><br/>Grafana
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br/>HTML5
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/><br/>CSS3
       </a>
     </td>
     <td align="center" width="90">
@@ -94,16 +121,36 @@
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/><br/>Jenkins
       </a>
     </td>
-  </tr>
-  <tr>    
     <td align="center" width="90">
       <a href="https://kubernetes.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/><br/>Kubernetes
       </a>
     </td>
     <td align="center" width="90">
+      <a href="https://www.ansible.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/><br/>Ansible
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.cisco.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" height="40" alt="Cisco"/><br/>Cisco
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://mikrotik.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MikroTik_logo.svg/512px-MikroTik_logo.svg.png" width="40" height="40" alt="MikroTik"/><br/>MikroTik
+      </a>
+    </td>
+    <td align="center" width="90">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/><br/>Ubuntu
       </a>
     </td>
     <td align="center" width="90">
@@ -125,7 +172,12 @@
       <a href="https://nextjs.org/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/><br/>Next.js
       </a>
-    </td> 
+    </td>
+    <td align="center" width="90">
+      <a href="https://vitejs.dev/" target="_blank">
+        <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/><br/>Vite
+      </a>
+    </td>
     <td align="center" width="90">
       <a href="https://www.nginx.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/><br/>Nginx
@@ -147,12 +199,12 @@
       </a>
     </td>
   </tr>
-  <tr> 
+  <tr>
     <td align="center" width="90">
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>Python
       </a>
-    </td>   
+    </td>
     <td align="center" width="90">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br/>React
@@ -167,19 +219,15 @@
       <a href="https://redis.io" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/><br/>Redis
       </a>
-    </td>  
+    </td>
     <td align="center" width="90">
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>TypeScript
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/><br/>Vue.js
-      </a>
-    </td>
   </tr>
 </table>
+
 
 <h3 align="left" style="color: white;">📊 GitHub Stats & Used Languages:</h3> <!-- Teks berwarna putih -->
 <div>
