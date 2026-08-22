@@ -15,7 +15,7 @@
 <h3 align="left">🔎 - About Me:</h3>
 <div style="color: white; margin: 20px 0;"> <!-- Teks berwarna putih -->
     <ul>
-        <li>🎓 Student at SMKN 1 Nglegok</li>
+        <li>🎓 Student at Institut Teknologi Sepuluh Nopember</li>
         <li>☁️ Cloud Computing & DevOps Enthusiast</li>
         <li>📚 Currently Learning AWS, Docker, and Kubernetes</li>
         <li>💻 Exploring Serverless Architectures, CI/CD, and Automation</li>
